@@ -9,9 +9,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Homer",
     "section": "",
-    "text": "About this site"
+    "text": "Stuff about Homer.\nAnd how about a carousel?\n\n\n&lt;button type=\"button\" data-bs-target=\"#carouselExampleCaptions\" data-bs-slide-to=\"0\" class=\"active\" aria-current=\"true\" aria-label=\"Slide 1\"&gt;&lt;/button&gt;\n&lt;button type=\"button\" data-bs-target=\"#carouselExampleCaptions\" data-bs-slide-to=\"1\" aria-label=\"Slide 2\"&gt;&lt;/button&gt;\n&lt;button type=\"button\" data-bs-target=\"#carouselExampleCaptions\" data-bs-slide-to=\"2\" aria-label=\"Slide 3\"&gt;&lt;/button&gt;\n\n\n&lt;div class=\"carousel-item active\"&gt;\n  &lt;img src=\"/images/hatthatattvakaumudi.jpg\" class=\"d-block w-100\" alt=\"...\"&gt;\n  &lt;div class=\"carousel-caption d-none d-md-block\"&gt;\n    &lt;h5&gt;First slide label&lt;/h5&gt;\n    &lt;p&gt;Some representative placeholder content for the first slide.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=\"carousel-item\"&gt;\n  &lt;img src=\"/images/hatthatattvakaumudi.jpg\" class=\"d-block w-100\" alt=\"...\"&gt;\n  &lt;div class=\"carousel-caption d-none d-md-block\"&gt;\n    &lt;h5&gt;Second slide label&lt;/h5&gt;\n    &lt;p&gt;Some representative placeholder content for the second slide.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=\"carousel-item\"&gt;\n  &lt;img src=\"/images/hatthatattvakaumudi.jpg\" class=\"d-block w-100\" alt=\"...\"&gt;\n  &lt;div class=\"carousel-caption d-none d-md-block\"&gt;\n    &lt;h5&gt;Third slide label&lt;/h5&gt;\n    &lt;p&gt;Some representative placeholder content for the third slide.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n  Previous    Next"
   },
   {
     "objectID": "blog.html",
@@ -103,5 +103,19 @@
     "title": "My First Post",
     "section": "Second Section",
     "text": "Second Section\nConsectetur lorem donec massa sapien faucibus et molestie. Arcu bibendum at varius vel pharetra vel. Lectus mauris ultrices eros in cursus turpis. Odio facilisis mauris sit amet massa vitae tortor condimentum. Aliquet nec ullamcorper sit amet risus. Proin libero nunc consequat interdum varius sit amet mattis. Est ultricies integer quis auctor elit sed. Euismod in pellentesque massa placerat duis ultricies. Aliquet porttitor lacus luctus accumsan tortor posuere ac. Leo a diam sollicitudin tempor. Nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Ornare suspendisse sed nisi lacus sed viverra tellus.\nFacilisi cras fermentum odio eu feugiat pretium. Sit amet nisl purus in mollis nunc. Viverra accumsan in nisl nisi scelerisque. Dictum non consectetur a erat nam at lectus urna. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Nisl condimentum id venenatis a condimentum. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla. Sed ullamcorper morbi tincidunt ornare massa eget egestas. Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac. Amet aliquam id diam maecenas ultricies mi eget mauris. Faucibus interdum posuere lorem ipsum dolor sit amet consectetur adipiscing. Dignissim sodales ut eu sem integer vitae. Nisl rhoncus mattis rhoncus urna neque viverra. Lobortis mattis aliquam faucibus purus in massa. Augue mauris augue neque gravida. Ut porttitor leo a diam. Sed turpis tincidunt id aliquet risus. Convallis posuere morbi leo urna molestie. At erat pellentesque adipiscing commodo elit at imperdiet dui.\nTincidunt lobortis feugiat vivamus at. Vivamus at augue eget arcu. Orci eu lobortis elementum nibh tellus molestie. Ullamcorper sit amet risus nullam eget felis eget. Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum sed arcu non odio euismod lacinia. In cursus turpis massa tincidunt dui ut ornare lectus. Elit pellentesque habitant morbi tristique senectus et netus et malesuada. Et tortor consequat id porta nibh venenatis cras sed. Mauris a diam maecenas sed enim ut sem. Sodales neque sodales ut etiam sit amet nisl purus in. In metus vulputate eu scelerisque felis imperdiet proin fermentum leo. Mattis aliquam faucibus purus in massa. Ultrices vitae auctor eu augue ut lectus arcu bibendum at. Orci ac auctor augue mauris augue. Tortor posuere ac ut consequat semper viverra nam libero justo. Nec ullamcorper sit amet risus nullam eget. Tincidunt id aliquet risus feugiat in. Phasellus egestas tellus rutrum tellus pellentesque. Morbi tristique senectus et netus et malesuada fames."
+  },
+  {
+    "objectID": "homer.html",
+    "href": "homer.html",
+    "title": "Homer",
+    "section": "",
+    "text": "Stuff about Homer.\nAnd how about a carousel?\n\n  \n    \n    \n    \n  \n  \n    \n      \n      \n        First slide label\n        Some representative placeholder content for the first slide.\n      \n    \n    \n      \n      \n        Second slide label\n        Some representative placeholder content for the second slide.\n      \n    \n    \n      \n      \n        Third slide label\n        Some representative placeholder content for the third slide.\n      \n    \n  \n  \n    \n    Previous\n  \n  \n    \n    Next"
+  },
+  {
+    "objectID": "ashtanga.html",
+    "href": "ashtanga.html",
+    "title": "Ashtanga",
+    "section": "",
+    "text": "TODO"
   }
 ]

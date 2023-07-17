@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Redneck Rishi"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "About"
+        menu:
+          - href: homer.qmd
+            text: "Homer"
+          - href: ashtanga.qmd
+            text: "Ashtanga"
+      - href: blog.qmd
+        text: "Blog"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
